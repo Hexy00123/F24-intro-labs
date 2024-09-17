@@ -35,3 +35,6 @@ The verified commit signature means that a trusted/developer has signed the comm
 * Saves the information about individual commits, making it easier to understand the development process.
 
 * Allows the group of developers to work on different branches and then merge their changes without loosing their work.
+
+### Proof of change repository settings
+![alt text](task2.png)
